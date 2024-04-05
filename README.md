@@ -5,6 +5,6 @@ Based on these features, I have created an interface where users can share posts
 The GUI has been designed with Python Tkinter.
 
 ## ER DIAGRAM
-
+![alt text](http://url/to/)
 
 
